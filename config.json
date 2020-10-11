@@ -1,0 +1,24 @@
+{
+  "params":
+
+  {
+          "local_server" :"True",
+          "local_uri":"mysql://root:@localhost/mdablogs",
+          "prod_uri":"mysql://root:@localhost/mdablogs",
+          "fb_url": "https://facebook.com/mdablogs",
+          "tw_url": "https://twitter.com/mdablogs",
+          "gt_url": "https://github.com/mdablogs",
+          "blog_name": "Local Adventurer",
+          "blog_sub_heading": "Hope you will love my blogs",
+          "about_name": "know about us",
+          "about_sub_heading": "I am from city lucknow and i am travel blogger",
+          "gmail-user":"mohammadasif0305@gmail.com",
+          "gmail-pas": "Masif@0305",
+          "about_text": "hello i am from lucknow and i like making website so please follow me for more updates links are in description",
+          "no_of_posts": 2,
+          "login_img" : "login.png",
+          "admin_user": "admin",
+          "admin_password": "admin",
+          "upload_location": "C:\\Users\\PC\\PycharmProjects\\flask1\\static>"
+  }
+}
